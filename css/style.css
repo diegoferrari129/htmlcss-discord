@@ -70,7 +70,7 @@ header{
     padding: 10px 0;
 }
 
-ul.text-center{
+ul{
     list-style-type: none;
 }
 
@@ -79,7 +79,7 @@ ul.text-center li{
     margin: 0px 20px;
 }
 
-ul.text-center li a{
+ul li a{
     text-decoration: none;
     color: white;
 }
@@ -165,6 +165,23 @@ footer{
     padding: 0.5% 0% 2% 0%;
     border-bottom: 3px solid white; 
 }
+
+.v-alygn-mid{
+    vertical-align: middle;
+}
+
+.width-30{
+    width: 30px;
+}
+
+.ul-footer li{
+    padding: 10px;
+}
+
+.text-lavanda{
+    color: rgb(104, 144, 255);
+}
+
 
 .bg-aquamarine{
     background-color: aquamarine;
