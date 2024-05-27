@@ -137,12 +137,24 @@ p{
     background-color: black;
 }
 
+.btn-lavanda{
+    background-color: rgb(104, 144, 255);
+}
+
 .bg-lightgrey{
     background-color: rgb(242, 242, 242);
 }
 
 .py-90{
     padding: 0 90px;
+}
+
+.py-60{
+    padding: 60px 0;
+}
+
+h3{
+    font-size: 26px;
 }
 
 footer{
