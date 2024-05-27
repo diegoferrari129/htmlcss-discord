@@ -141,12 +141,8 @@ p{
     background-color: rgb(242, 242, 242);
 }
 
-.h-600{
-    height: 600px;
-}
-
-.bg-green{
-    background-color: green;
+.py-90{
+    padding: 0 90px;
 }
 
 footer{
