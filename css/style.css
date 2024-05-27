@@ -19,7 +19,7 @@ body{
 }
 
 .container-sm{
-    max-width: 800px;
+    max-width: 780px;
     margin: 0 auto;
 }
 
@@ -38,7 +38,6 @@ body{
 
 .col-100{
     width: 100%;
-    background-color: rgb(238, 118, 234);
     height: 300px;
 }
 
@@ -123,6 +122,24 @@ ul.text-center li a{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+.text-white{
+    color: white;
+}
+
+h2{
+    font-size: 50px;
+    padding: 30px 0;
+}
+
+p{
+    font-size: 20px;
+    line-height: 1.7;
+}
+
+.btn-black{
+    background-color: black;
 }
 
 .bg-lightgrey{
